@@ -19,3 +19,6 @@ The repository includes the following code:
 - various helper tools.
 
 Additionally, the repository includes CSV files that contain the iceberg matches analyzed in the paper, including all statistics extracted from Sentinel-1, Sentinel-2, and from the CARRA metocean data. The files are provided for all analyzed polarization channels, CFAR window sizes, and PFAs.
+
+## Contact
+Please contact the corresponding author on the publication.
