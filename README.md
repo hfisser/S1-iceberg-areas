@@ -6,3 +6,6 @@ This repository contains the code underlying the paper "Backscatter-sensitive ic
 
 In the paper, we present a regression model for predicting backscatter-sensitive iceberg areas from Sentinel-1 data. We provide the algorithm as a Python package: URL
 
+## Content of this repository
+
+\item H
